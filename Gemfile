@@ -8,6 +8,6 @@ gem 'pry', :group =>"development"
 
 source "https://rubygems.org"
 gem "rspec"
-group :test do 
+group :test do
   gem "rspec"
 end
